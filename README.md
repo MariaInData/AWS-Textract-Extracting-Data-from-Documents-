@@ -1,12 +1,12 @@
 # AWS-Textract-Extracting-Data-from-Documents-
 How to instantly read extracted text, tables, and forms from images and PDF files using AWS Textract
 
-#Analyze Terms and Conditions of a Scanned Document using AWS Textract
+# Analyze Terms and Conditions of a Scanned Document using AWS Textract
 
-##Setup Front End
+## Setup Front End
 The front end of the application contains the interface used to intrecta with the application. The application is developed using python flask and the same can be found in FrontEnd Folder. Use the main.py to start the application. Get security keys from AWS S3 and replace thme in the application.
 
-##AWS LAMBDA Back End 
+## AWS LAMBDA Back End 
 The AWS Lambda conatins the code of LAMBDA functions.
 
 Steps to implement the demo:
@@ -21,7 +21,7 @@ Lambda Functions: 2 functions: - textract_sync_job_creation: To create an job on
 
 After this process has been completed - we simply upload the master file and after this upload the scanned document via the front end service. After clicking the submit button we get a document where the differences are hghlighted.
 
-##Credits & Bibliography
+## Credits & Bibliography
 
 AWS Textract Homepage - https://aws.amazon.com/textract/
 Setup & Implementation - https://www.youtube.com/watch?v=L6vdd9OYF_8&t=2056s&ab_channel=SrceCde
