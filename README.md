@@ -12,7 +12,10 @@ The AWS Lambda conatins the code of LAMBDA functions.
 
 Steps to implement the demo:
 
-First we create an S3 bucket where we create the following folders: - Files: Where we add our template and the filled form which we want to compare - Textract Output: This is where the log files are stored once our textract operation runs - CSV: Where our output gets stored - Templates: Where our template gets stored
+First we create an S3 bucket where we create the following folders:  
+- Files: Where we add our template and the filled form which we want to compare  
+- Textract Output: This is where the log files are stored once our textract operation runs  
+- CSV: Where our output gets stored - Templates: Where our template gets stored  
 
 After this, we create and grant permissions for accepting and running the operation on the files. This is done through IAM - where we create the following roles: - AWSServiceRoleForSupport: The AWSServiceRoleForSupport service-linked role enables all AWS Support API calls to be visible to customers through AWS CloudTrail. This helps with monitoring and auditing requirements, because it provides a transparent way to understand the actions that AWS Support performs on your behalf.
 
