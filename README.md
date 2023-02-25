@@ -24,7 +24,7 @@ After this process has been completed - we simply upload the master file and aft
 ## Credits & Bibliography
 
 AWS Textract Homepage - https://aws.amazon.com/textract/
-  Setup & Implementation - https://www.youtube.com/watch?v=L6vdd9OYF_8&t=2056s&ab_channel=SrceCde
-  Setup & Implementation - https://www.youtube.com/watch?v=IRmeekfUZeA&ab_channel=CloudGuru
-  https://docs.aws.amazon.com/managedservices/latest/userguide/textract.html
-  https://nanonets.com/blog/aws-textract-teardown-pros-cons-review/
+Setup & Implementation - https://www.youtube.com/watch?v=L6vdd9OYF_8&t=2056s&ab_channel=SrceCde
+Setup & Implementation - https://www.youtube.com/watch?v=IRmeekfUZeA&ab_channel=CloudGuru
+AWS - https://docs.aws.amazon.com/managedservices/latest/userguide/textract.html
+AWS - https://nanonets.com/blog/aws-textract-teardown-pros-cons-review/
