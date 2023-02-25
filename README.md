@@ -1,6 +1,6 @@
 # AWS-Textract-Extracting-Data-from-Documents-
 
-! [Here's a photo] ("https://user-images.githubusercontent.com/125685678/221339541-7b959437-df3d-4c30-b52d-eb51bc054018.png")
+![Here's a photo]("https://user-images.githubusercontent.com/125685678/221339541-7b959437-df3d-4c30-b52d-eb51bc054018.png")
 
 How to instantly read extracted text, tables, and forms from images and PDF files using AWS Textract
 # Analyze Terms and Conditions of a Scanned Document using AWS Textract
