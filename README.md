@@ -1,6 +1,5 @@
 # AWS-Textract-Extracting-Data-from-Documents-
 
-#!("https://user-images.githubusercontent.com/125685678/221339541-7b959437-df3d-4c30-b52d-eb51bc054018.png")
 ![textract screenshot](https://user-images.githubusercontent.com/125685678/221339789-1b73b261-ddff-4840-9aea-14f5f2868d08.jpg)
 How to instantly read extracted text, tables, and forms from images and PDF files using AWS Textract
 # Analyze Terms and Conditions of a Scanned Document using AWS Textract
@@ -25,8 +24,8 @@ After this process has been completed - we simply upload the master file and aft
 
 ## Credits & Bibliography
 
-AWS Textract Homepage - https://aws.amazon.com/textract/
-Setup & Implementation - https://www.youtube.com/watch?v=L6vdd9OYF_8&t=2056s&ab_channel=SrceCde
-Setup & Implementation - https://www.youtube.com/watch?v=IRmeekfUZeA&ab_channel=CloudGuru
-AWS - https://docs.aws.amazon.com/managedservices/latest/userguide/textract.html
-AWS - https://nanonets.com/blog/aws-textract-teardown-pros-cons-review/
+AWS Textract Homepage - https://aws.amazon.com/textract/  
+Setup & Implementation - https://www.youtube.com/watch?v=L6vdd9OYF_8&t=2056s&ab_channel=SrceCde  
+Setup & Implementation - https://www.youtube.com/watch?v=IRmeekfUZeA&ab_channel=CloudGuru  
+AWS - https://docs.aws.amazon.com/managedservices/latest/userguide/textract.html  
+AWS - https://nanonets.com/blog/aws-textract-teardown-pros-cons-review/  
